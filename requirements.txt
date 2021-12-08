@@ -3,3 +3,4 @@ uvicorn
 gunicorn
 pickle-mixin
 scikit-learn
+lightgbm
