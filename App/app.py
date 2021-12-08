@@ -6,7 +6,7 @@ app = FastAPI()
 
 
 def get_model():
-    with open('/home/maksonvinicio/Documents/GitHub/Price-houses/Models/pipe.pkl', 'rb') as f:
+    with open('Models/pipe.pkl', 'rb') as f:
         return pickle.load(f)
 
 
