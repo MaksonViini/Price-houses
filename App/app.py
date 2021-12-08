@@ -8,6 +8,9 @@ def get_model():
     with open('Models/pipe.pkl', 'rb') as f:
         return pickle.load(f)
 
+@app.get('/')
+def hello_world():
+    return {"message": "Hello World"}
 
 @app.post('/predict')
 async def predict(request: Request):
