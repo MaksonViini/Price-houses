@@ -2,3 +2,4 @@ fastapi
 uvicorn
 gunicorn
 pickle-mixin
+scikit-learn
