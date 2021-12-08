@@ -1,5 +1,4 @@
-from fastapi import FastAPI, requests
-from starlette.requests import Request
+from fastapi import FastAPI, Request
 import pickle
 
 app = FastAPI()
