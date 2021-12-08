@@ -1,1 +1,1 @@
-web: sh setup.sh && uvicorn App.app:app --reload
+web: gunicorn -w 3 -k uvicorn.workers.UvicornWorker App.app:app
