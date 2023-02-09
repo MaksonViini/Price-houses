@@ -5,7 +5,7 @@
 - [Link do projeto em produção](https://projectpricehouse.herokuapp.com/
 
 ## Principais ferramentas:
-- Python (Pandas, Scikit-Learn, Numpy, Seaborn, Matplotlib, StatsModel, Scrapy, Selenium, Plotly, Keras)
+- Python and Tools (Pandas, Scikit-Learn, Numpy, Seaborn, Matplotlib, StatsModel, Scrapy, Selenium, Plotly, Keras)
 - Business Intelligence (SQL, )
 
 # Contatos
@@ -14,6 +14,15 @@
 - [GitHub](https://github.com/MaksonViini)
 
 # Projetos
+## DevOps and Development
+- [REST API com integração de serviços e DevOps](https://github.com/MaksonViini/Best-Practices-Simple-ToDo-FastApi)
+- [REST API com FastApi](https://github.com/MaksonViini/FastApi-App)
+- [REST API com Flask](https://github.com/MaksonViini/Flask-App)
+
+## Analysis
+
+- [Análise de emissão de gases de efeito estufa](https://github.com/MaksonViini/Green-House-Gases)
+
 ## Classification
 - [Análise de emissão de gases de efeito estufa](https://github.com/MaksonViini/Green-House-Gases)
 - [Classificação de Inadimplência](https://github.com/MaksonViini/Credit-Risc)
